@@ -2,7 +2,7 @@
 #include <math.h>
 using namespace std;
 //This program analyzes stock data and helps the user decide whether or not to buy those stocks.
-//Author: Maria Psomas
+//Author: Badtothebunny
 int main()
  {
 int sum=0,cnt=0,c;
@@ -40,3 +40,4 @@ while (price!=-1)
 	else
 		cout<<"You should not buy the stock.";
 }
+
